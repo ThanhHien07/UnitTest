@@ -1,0 +1,17 @@
+D:\KTPM\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\KTPM\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\KTPM\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\KTPM\Calculator\CalculatorTester\bin\Debug\CalculatorTester.dll
+D:\KTPM\Calculator\CalculatorTester\bin\Debug\CalculatorTester.pdb
+D:\KTPM\Calculator\CalculatorTester\bin\Debug\Calculator.exe
+D:\KTPM\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\KTPM\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\KTPM\Calculator\CalculatorTester\bin\Debug\Calculator.pdb
+D:\KTPM\Calculator\CalculatorTester\bin\Debug\Calculator.exe.config
+D:\KTPM\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\KTPM\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\KTPM\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.AssemblyReference.cache
+D:\KTPM\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CoreCompileInputs.cache
+D:\KTPM\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CopyComplete
+D:\KTPM\Calculator\CalculatorTester\obj\Debug\CalculatorTester.dll
+D:\KTPM\Calculator\CalculatorTester\obj\Debug\CalculatorTester.pdb

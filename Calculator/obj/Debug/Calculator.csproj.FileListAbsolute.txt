@@ -1,0 +1,10 @@
+D:\KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\KTPM\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\KTPM\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\KTPM\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\KTPM\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\KTPM\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\KTPM\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\KTPM\Calculator\Calculator\obj\Debug\Calculator.pdb
